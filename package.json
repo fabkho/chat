@@ -1,6 +1,6 @@
 {
   "name": "@fabkho/chat",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A chat's client logic as a Nuxt layer: send queue, threads, spoiler veil, photo and GIF helpers and a Realtime core, framework-free behind an adapter. No words, no app imports, no Supabase.",
   "license": "MIT",
   "type": "module",
